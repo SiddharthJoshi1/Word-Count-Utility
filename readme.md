@@ -3,6 +3,9 @@
 ### **Word Count Command-Line Tool**
 
 **Purpose:**
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
+
 This Dart project implements a command-line tool that functions similarly to the Unix `wc` utility. It counts the number of bytes, words, lines, and characters in a specified file or standard input stream.
 
 **Usage:**
